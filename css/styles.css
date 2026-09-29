@@ -1,0 +1,112 @@
+html, body {
+background: #521919;
+margin: 0;
+}
+
+h1,h2{
+color:#f3f900;
+
+}
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2.5% 2.5% 0;
+	background: #8F220A;
+	color: #F3F900;
+	line-height: 1.8;
+
+}
+
+
+h1{
+
+    font: 3.2em Verdana, "Times New Roman", sans-serif;
+	margin-bottom: .4em;
+	color: #F3F900;
+
+}
+
+h2{
+
+    font: 1.6em Georgia, "Times New Roman", Times, serif;
+	margin-bottom: .2em;
+}
+
+p{
+
+    margin-bottom: 1em;
+
+}
+
+
+a{
+
+    color: #F3F900;
+
+}
+
+a:hover{
+
+    color: rgb(3, 3, 2);
+
+}
+
+dt {
+	font-style: italic;
+	font-size:1.2em;
+}
+dd {
+	margin-bottom: 1.4em;
+}
+
+
+hr {
+
+	border: none;
+	border-top: 1px solid #F3F900;
+	margin-bottom: .4em;
+
+}
+
+
+.center{
+    
+    text-align: center;
+
+}
+
+header h2 {
+
+    padding-bottom: .2em;
+	border-bottom: 1px solid #F3F900;
+
+}
+
+footer {
+
+    border-top: 1px solid #F3F900;
+	font-size: .8em;
+	line-height: 4em;
+	margin-top: auto;
+
+}
+
+
+.flowRight{
+
+    float: right;
+	margin-left: 10px;
+
+}
+
+.flowleft{
+
+	float: left;
+	margin-right: 10px;
+}
+
+
